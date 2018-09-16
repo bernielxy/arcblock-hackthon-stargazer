@@ -35,6 +35,6 @@ In this hackthon, we have now completed a forecast of three cryptocurrency price
 
 # Acknowledgements
 
-[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/arcblock.svg?raw=true" alt="ArcBlock" width="500">](https://www.arcblock.io/)
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/arcblock.svg" alt="ArcBlock" width="500">](https://www.arcblock.io/)
 
 [<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/seniverse.png?raw=true" alt="Seniverse" width="500">](https://www.seniverse.com/)
