@@ -4,7 +4,7 @@
 
 # Introduction
 
-Since most of our members come from Seniverse, a meteorological service provider, we'd like to do some research based on our work to take advantage of existing data. 
+Since most of our members come from [Seniverse](https://www.seniverse.com/), a meteorological service provider, we'd like to do some research based on our work to take advantage of existing data. 
 
 For [large mines](https://www.buybitcoinworldwide.com/mining/pools/), electricity costs a lot of money. Therefore, people tend to choose places with cheap price of electricity as mine sites, such as Sichuan, Inner Mongolia, and Xinjiang Province in China. We'd like to explore the relationship between natural factors and the price of cryptocurrency by using data of meteorological parameters such as rainfall, wind, and light over the past few years in the areas mentioned above. The research will be a helpful guide for can better guide for selecting  mine sites and developing annual mine migration plans., and avoid the natural risks similar to [the 2018 Sichuan flood](https://www.ft.com/content/1f2ad808-80f2-11e8-8e67-1e1a0846c475). If you are interested in this topic or the application of natural data (such as meteorological data), feel free to leave a message in issue or [Seniverse](https://www.seniverse.com/).
 
