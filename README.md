@@ -1,4 +1,4 @@
->> The people who tries to predict the price of the cryptocurrency, we call them the stargazer.
+> The people who tries to predict the price of the cryptocurrency, we call them the stargazer.
 
 # Introduction
 
@@ -15,8 +15,26 @@ In this hackthon, we have now completed a forecast of three cryptocurrency price
 
 # Usage:
 
-
-
     pip install -r requirements.txt
 
     python historical.py
+
+# Result
+
+- BTC Price
+
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/btc.png?raw=true" alt="ArcBlock" width="500">](https://www.arcblock.io/)
+
+- ETH Price
+
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/eth.png?raw=true" alt="ArcBlock" width="500">](https://www.arcblock.io/)
+
+- ABC Price
+
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/abc.png?raw=true" alt="ArcBlock" width="500">](https://www.arcblock.io/)
+
+# Acknowledgements
+
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/arcblock.svg?raw=true" alt="ArcBlock" width="500">](https://www.arcblock.io/)
+
+[<img src="https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/assets/images/seniverse.png?raw=true" alt="Seniverse" width="500">](https://www.seniverse.com/)
