@@ -1,5 +1,7 @@
 > The people who tries to predict the price of the cryptocurrency, we call them the stargazer.
 
+[Chinese](https://github.com/sharkspeed/arcblock-hackthon-stargazer/blob/master/README-zh.md)
+
 # Introduction
 
 Since most of our members come from Seniverse, a meteorological service provider, we want to do something that combines our work. 
@@ -13,7 +15,7 @@ We will also add historical price, stock market, gold, war factors, macroeconomi
 In this hackthon, we have now completed a forecast of three cryptocurrency prices based on historical prices. Thanks to [**ArcBlock**](https://www.arcblock.io/), we can fetch historical price data for the past two years easily. Then we use a simple linear regression to predict the price of the cryptocurrency(support btc, eth).
 
 
-# Usage:
+# Usage
 
     pip install -r requirements.txt
 
